@@ -5,8 +5,6 @@ using Sesh6DbFirst.ModelLayer;
 using System.Data;
 
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello world from mpc"); //test connection to github
-Console.WriteLine("hello from mpcdev"); //test branch
 
 string connectionString = "data Source=.; Database=SalesDatabase; integrated security=true";
 
