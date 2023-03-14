@@ -5,6 +5,7 @@ using Sesh6DbFirst.ModelLayer;
 using System.Data;
 
 Console.WriteLine("Hello, World!");
+Console.WriteLine("totally a feature");
 
 string connectionString = "data Source=.; Database=SalesDatabase; integrated security=true";
 
